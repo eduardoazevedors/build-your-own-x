@@ -1,39 +1,39 @@
 <!--
-Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
+Obrigado pela sua contribuição! Se você está enviando um tutorial, certifique-se de que ele inclua um caminho guiado para os aprendizes, seja por meio de um artigo passo a passo ou dividindo o código em partes digeríveis e fáceis de acompanhar. Por favor, envie apenas tutoriais de programação que construam algo interessante do zero; nada de frameworks, bibliotecas, guias de frameworks/bibliotecas ou tutoriais que apenas conectam outras bibliotecas entre si.
 -->
 
-### Main programming language
-<!-- max. 1 -->
+### Linguagem de programação principal
+<!-- máx. 1 -->
 
-### Tutorial title
-<!-- the original title from the article, repository, ... -->
+### Título do tutorial
+<!-- o título original do artigo, repositório, ... -->
 
-### Tutorial URL
+### URL do tutorial
 
-### Category
-* [ ] 3D Renderer
-* [ ] Augmented Reality
-* [ ] BitTorrent Client
-* [ ] Blockchain / Cryptocurrency
+### Categoria
+* [ ] Renderizador 3D
+* [ ] Realidade Aumentada
+* [ ] Cliente BitTorrent
+* [ ] Blockchain / Criptomoeda
 * [ ] Bot
-* [ ] Command-Line Tool
-* [ ] Database
+* [ ] Ferramenta de Linha de Comando
+* [ ] Banco de Dados
 * [ ] Docker
-* [ ] Emulator / Virtual Machine
-* [ ] Front-end Framework / Library
-* [ ] Game
+* [ ] Emulador / Máquina Virtual
+* [ ] Framework / Biblioteca Front-end
+* [ ] Jogo
 * [ ] Git
-* [ ] Network Stack
-* [ ] Neural Network
-* [ ] Operating System
-* [ ] Physics Engine
-* [ ] Programming Language
-* [ ] Regex Engine
-* [ ] Search Engine
+* [ ] Pilha de Rede
+* [ ] Rede Neural
+* [ ] Sistema Operacional
+* [ ] Motor de Física
+* [ ] Linguagem de Programação
+* [ ] Motor de Regex
+* [ ] Motor de Busca
 * [ ] Shell
-* [ ] Template Engine
-* [ ] Visual Recognition System
-* [ ] Voxel Engine
-* [ ] Web Search Engine
-* [ ] Web Server
-* [ ] Uncategorized
+* [ ] Motor de Templates
+* [ ] Sistema de Reconhecimento Visual
+* [ ] Motor de Voxel
+* [ ] Motor de Busca Web
+* [ ] Servidor Web
+* [ ] Sem Categoria
